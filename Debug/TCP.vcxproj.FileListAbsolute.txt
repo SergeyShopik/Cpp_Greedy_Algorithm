@@ -1,0 +1,2 @@
+C:\Users\HP\source\repos\TCP\Debug\TCP.exe
+C:\Users\HP\source\repos\TCP\Debug\TCP.pdb
